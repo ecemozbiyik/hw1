@@ -1,0 +1,18 @@
+# ninja log v5
+22	168	6687137808537938	CMakeFiles/untitled22.dir/SelectionAlgorithm.cpp.obj	c65367f90030c22
+11	466	6687137811560442	CMakeFiles/untitled22.dir/AlgorithmSortAll.cpp.obj	f186fb120755a70a
+18	527	6687137812176766	CMakeFiles/untitled22.dir/TestBed.cpp.obj	b9e0597eb8733ddc
+0	560	6687137812511754	CMakeFiles/untitled22.dir/main.cpp.obj	d769ee607e362350
+3	332	6687170723577673	CMakeFiles/untitled22.dir/AlgorithmSortK.cpp.obj	c57aeb35486b149e
+3	364	6687172215560197	CMakeFiles/untitled22.dir/AlgorithmSortAll.cpp.obj	f186fb120755a70a
+365	474	6687172216624901	untitled22.exe	d1fd0b8158ac5efe
+3	377	6687174441149895	CMakeFiles/untitled22.dir/AlgorithmSortAll.cpp.obj	f186fb120755a70a
+379	510	6687174442438036	untitled22.exe	d1fd0b8158ac5efe
+3	367	6687181109130318	CMakeFiles/untitled22.dir/main.cpp.obj	d769ee607e362350
+368	480	6687181110176538	untitled22.exe	d1fd0b8158ac5efe
+2	365	6687181365523967	CMakeFiles/untitled22.dir/main.cpp.obj	d769ee607e362350
+365	531	6687181367113865	untitled22.exe	d1fd0b8158ac5efe
+4	342	6687192621213929	CMakeFiles/untitled22.dir/AlgorithmSortAll.cpp.obj	f186fb120755a70a
+342	471	6687192622447930	untitled22.exe	d1fd0b8158ac5efe
+3	383	6687194244207871	CMakeFiles/untitled22.dir/TestBed.cpp.obj	b9e0597eb8733ddc
+384	505	6687194245445865	untitled22.exe	d1fd0b8158ac5efe
